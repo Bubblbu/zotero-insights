@@ -1,0 +1,32 @@
+{
+    "title": {
+        "p1": "The cognitive revolution: a historical perspective"
+    },
+    "abstract": {
+        "p1":"Cognitive science is a child of the 1950s, the product of a time when psychology, anthropology and linguistics were redefining themselves and computer science and neuroscience as disciplines were coming into existence. Psychology could not participate in the cognitive revolution until it had freed itself from behaviorism, thus restoring cognition to scientific respectability.By then, it was becoming clear in several disciplines that the solution to some of their problems depended cru - cially on solving problems traditionally allocated to other disciplines.Collaboration was called for: this is a personal account of how it came about. "
+    },
+    "intro": {
+        "p1": "Oscar Wilde’s aphorism is appropriate. At the time, the suggestion that we were making history would have been presumptuous. But anybody can make history;writing history is another matter.I know something of the scholarship required and nothing approaching it has gone into the story I will tell here.But I offer this personal account in the hope that it might interest and help the real historians of science. ",
+        "p2": "They unfolded concurrently but I will tell the psychological story first.",
+        "h1": "At the time it was happening I did not realize that I was, in fact, a revolutionary, and two different stories became intertwined in my life.",
+        "n1": "Nobody was aware of the beginning of #cognitive-science #surprise"
+    },
+    "s1": {
+        "title": "The cognitive revolution in psychology",
+        "p1": "The cognitive revolution in psychology was a counterrevolution. The first revolution occurred much earlier when a group of experimental psychologists, influenced by Pavlov and other physiologists, proposed to redefine psychology as the science of behavior. They argued that mental events are not publicly observable. The only objective evidence available is, and must be, behavioral. By changing the subject to the study of behavior, psychology could become an objective science based on scientific laws of behavior. ",
+        "p2": "The behavioral revolution transformed experimental psychology in the US. Perception became discrimination, memory became learning, language became verbal beha- vior, intelligence became what intelligence tests test. By the time I went to graduate school at Harvard in the early   the transformation was complete. I was educated to  behavior and I learned to translate my ideas into the  jargon of behaviorism. As I was most interested in  and hearing, the translation sometimes became . But one’s reputation as a scientist could depend on  well the trick was played.",
+        "p3": "In 1951, I published Language and Communication [1], a book that grew out of four years of teaching a course at Harvard entitled ‘The Psychology of Language’. In the preface, I wrote: ‘The bias is behavioristic – not fanatically behavioristic, but certainly tainted by a preference. There does not seem to be a more scientific kind of bias, or, if there is, it turns out to be behaviorism after all.’ As I read that book today it is eclectic, not behavioristic. A few years later B.F. Skinner published Verbal Behavior [2], a truly behavioral treatment of language and communication. By Skinner’s standards, my book had little or nothing to do with behavior.",
+        "p4": "In 1951, I apparently still hoped to gain scientific respectability by swearing allegiance to behaviorism. Five years later, inspired by such colleagues as Noam Chomsky and Jerry Bruner, I had stopped pretending to be a behaviorist. So I date the cognitive revolution in psychol- ogy to those years in the early 1950s.",
+        "h1": " They argued that mental events are not publicly observable.",
+        "h2": " A few years later B.F. Skinner published Verbal Behavior [2], a truly behavioral treatment of language and communication.",
+        "h3": "Five years later, inspired by such colleagues as Noam Chomsky and Jerry Bruner, I had stopped pretending to be a behaviorist.",
+        "n3": "Chomsky and Bruner changed the game #surprise #behaviorism"
+    },
+    "s2": {
+        "title": "Limitations of information theory",
+        "p1": "During those years I personally became frustrated in my attempts to apply Claude Shannon’s theory of information to psychology. After some initial success I was unable to extend it beyond Shannon’s own analysis of letter sequences in written texts. The Markov processes on which Shannon’s analysis of language was based had the virtue of being compatible with the stimulus –response analysis favored by behaviorists. But information measurement is based on probabilities and increasingly the probabilities seemed more interesting that their logarithmic values, and neither the probabilities nor their logarithms shed much light on the psychological processes that were responsible for them.",
+        "p2": "I was therefore ready for Chomsky’s alternative to Markov processes. Once I understood that Shannon’s Markov processes could not converge on natural language,egan to accept syntactic theory as a better account of thenitive processes responsible for the structural aspects of human language. The grammatical rules that govern phrases and sentences are not behavior. They are mentalistic hypotheses about the cognitive processes responsible for the verbal behaviors we observe.",
+        "h1": "mentalistic hypotheses about the cognitive processes responsible for the verbal behaviors we observe.",
+        "n1": "this is important. don't forget to go through this paragraph §RR-SECTION"
+    }        
+}
